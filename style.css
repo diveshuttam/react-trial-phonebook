@@ -1,0 +1,53 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.subHeader{
+    font-weight: bold
+}
+
+.disp{
+    color:rgb(80, 75, 75);
+}
+
+.add{
+    background-color: green;
+}
+
+.delete{
+    background-color: red;
+}
+
+.back{
+    background-color: rgb(250, 235, 187);
+    color: black;
+}
+
+table,td,th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 10px;
+}
+
+.input-table{
+    border: none
+}
